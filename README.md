@@ -5,6 +5,8 @@ Hi all welcome to Julia tutorials. I have been working on Julia from past 2 year
 Contents of the tutorial:
 
 1. [DataFrames](Julia/DataFrames in Julia.ipynb)
+
+
 Data used:
 
-1.[home_data](Julia/home_data.csv)
+1. [home_data](Julia/home_data.csv)
